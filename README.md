@@ -1,9 +1,10 @@
 <br>
-  <h2 align="center">eduweb - Education Website</h2>
+  <h2 align="center">Music Website</h2>
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Responsive for all devices, build using HTML, CSS, and JavaScript. </br>
+  Make sure that you have a spotify account logedin for the better usage.
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
+  <a href="https://aakashgurung369.github.io/Music-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
